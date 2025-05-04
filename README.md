@@ -1,5 +1,8 @@
 ## 👋 Hi there onlooker! 👋
 
+You are currently number ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
+taking a look.
+
 <h2> Background </h2>
 
 My initial interest in coding began back in 2019 when I started running my own Minecraft server. That experience sparked a deep curiosity, and before beginning my current education, I explored various self-initiated programming challenges — most of them tied to Minecraft in one way or another.
