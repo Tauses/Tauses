@@ -9,6 +9,7 @@ To deepen my skills, I also enrolled in the "Develop Minecraft Plugins" course o
 I'm actively building on the skills I'm learning through my studies. At the moment, I'm focusing on a project that takes up most of my time: a modern website built using C# and the MVC framework. The goal is to create a dynamic and responsive web application that makes API calls to a server delivering real-time statistics for Minecraft players.
 
 <h3>Skills</h3>
+
 🧠 C#
 
 ☕ Java
