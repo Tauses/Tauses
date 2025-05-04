@@ -24,6 +24,10 @@ I'm actively building on the skills I'm learning through my studies. At the mome
 🧱 HTML
 
 🎨 CSS
+
+<h3>Statistikker</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauses&show_icons=true&theme=radical)
+
 <!--
 **Tauses/Tauses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
