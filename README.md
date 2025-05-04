@@ -1,6 +1,6 @@
 ## 👋 Hi there onlooker! 👋
 
-You are currently number ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Tauses)
+You are currently number ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tauses)
 taking a look.
 
 <h2> Background </h2>
