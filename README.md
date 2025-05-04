@@ -26,7 +26,8 @@ I'm actively building on the skills I'm learning through my studies. At the mome
 🎨 CSS
 
 <h3>Statistikker</h3>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauses&layout=compact)
+![Top Languages](https://github-readme-stats-git-main-linusborg.vercel.app/api/top-langs/?username=Tauses&layout=compact)
+
 
 
 <!--
