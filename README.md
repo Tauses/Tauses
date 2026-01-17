@@ -8,20 +8,24 @@ Feel free to reach out to me! 📫
 Discord: tauses#1738
 
 <h2> Background </h2>
-
-My initial interest in coding began back in 2019 when I started running my own Minecraft server. That experience sparked a deep curiosity, and before beginning my current Computer Science education, I explored various self-initiated programming challenges — most of them tied to Minecraft in one way or another.
-To deepen my skills, I also enrolled in the "Develop Minecraft Plugins" course on Udemy, which gave me hands-on experience with plugin development and Java-based programming.
+Education: AP CS
+Interests: 
+  Minecraft development in Java
+  Hobby projects such as my own Minecraft server TinyEarth and its website
+  Entrepreneurship
 
 <h3>Currently</h3>
-I'm actively building on the skills I'm learning through my studies. At the moment, I'm focusing on a project that takes up most of my time: a modern website built using C# and the .NET framework. The goal is to create a dynamic and responsive website that makes API calls to a server delivering real-time statistics for Minecraft players.
+Working as a fullstack developer creating WebApps primarily using .NET, React TS and Blazor.
 
 <h3>Skills</h3>
+My skillset includes:
+C#, Java, JavaScript (TypeScript), React, Blazor and SQL.
+For work I create fullstack WebApps and setup my own DevOps.
 
-🧠 C# ☕ Java 🌐 JavaScript 🗄️ SQL 🧱 HTML 🎨 CSS
+I run my pipelines in Docker using Jenkins. As of right now, I dont use Azure or other enterprise solutions for DevOps functions.
 
 
 <h3>Stats</h3>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauses&layout=compact&theme=radical)
 
 
