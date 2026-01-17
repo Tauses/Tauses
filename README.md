@@ -8,10 +8,15 @@ Feel free to reach out to me! 📫
 Discord: tauses#1738
 
 <h2> Background </h2>
+
 Education: AP CS
+
 Interests: 
+
   Minecraft development in Java
+  
   Hobby projects such as my own Minecraft server TinyEarth and its website
+  
   Entrepreneurship
 
 <h3>Currently</h3>
