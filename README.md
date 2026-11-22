@@ -27,7 +27,7 @@ My skillset includes:
 C#, Java, JavaScript (TypeScript), React, Blazor and SQL.
 For work I create fullstack WebApps and setup my own DevOps.
 
-I run my pipelines in Docker using Jenkins. As of right now, I dont use Azure or other enterprise solutions for DevOps functions.
+I run my pipelines in Docker using Jenkins and Azure DevOps.
 
 
 <h3>Stats</h3>
